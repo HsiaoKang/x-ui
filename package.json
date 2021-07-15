@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HsiaoKang/x-ui/issues"
   },
-  "homepage": "https://github.com/HsiaoKang/x-ui#readme"
+  "homepage": "https://github.com/HsiaoKang/x-ui#readme",
+  "dependencies": {
+    "esbuild": "^0.12.15"
+  }
 }
