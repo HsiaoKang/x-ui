@@ -1,0 +1,1 @@
+import*as o from"react";import*as e from"react-dom/server";import r from"./beethoven2und5.jpg";let l=()=>o.createElement("h1",null,"Hello, world!");const t=!1;console.log(e.renderToString(o.createElement(l,null)),t,r);
